@@ -1,4 +1,4 @@
-Hi! I'm Adrian Lorenzo ✌
+Hi! I'm Lorenzo ✌
 I usually go by the online alias ilagon.
 I fell in love with programming when I first learned C# while in college.
 Pretty much awakened a God-complex in me as I felt like I could turn any idea into reality.
